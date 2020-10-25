@@ -6,3 +6,17 @@ An anonymous modder gave this to me without any documentation, so we don't know 
 See this page how to use Google Drive API: https://developers.google.com/drive
 
 Be a webmaster and have PHP, SQL and JS programming skills
+
+The following sites using Google Drive as file hosting
+
+- https://hostupfiles.com/
+
+- https://www.hotfile.pro/
+
+- https://anrinne.com/
+
+- https://du.tuoitre.jp/
+
+- https://www.hotfile.pro/
+
+- https://upfile.us/
